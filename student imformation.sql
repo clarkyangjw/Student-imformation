@@ -1,12 +1,3 @@
-/****************************************************
-
--- Group Number: 3
--- Name: Yushi Xie, Pei Wang, Jiawei Yang, Jaya Sumanth Yelamanchili
--- ID:   142358167, 144341187, 121134183,  150249183
--- Date: 11-Dec-2019
--- Purpose: Assignment 2 - DBS301
-
-****************************************************/
 CREATE TABLE a2Departments(
     deptCode        VARCHAR2(5)     PRIMARY KEY,
     deptName        VARCHAR2(100)   NOT NULL,
